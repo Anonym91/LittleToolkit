@@ -7,5 +7,5 @@ For avoiding typing lots of patterned codes.
 #### Description
 Connecting C* cluster and generating the Java Bean for rest apis by typing C* connect point and file path so as keyspace and tables to create patterned beans.
 
-[FORWARDING](CassandraBeanGenerator\CBG_README.md )
+[FORWARDING](CassandraBeanGenerator\README.md )
 ### 2. TO BE CONTINUED...
