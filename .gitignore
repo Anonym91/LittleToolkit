@@ -1,0 +1,13 @@
+
+/.idea
+/*.iml
+/*/src/test
+/*/target/
+/*/log
+
+
+.idea
+.iml
+/src/test
+/target/
+/log
